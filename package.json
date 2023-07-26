@@ -1,0 +1,11 @@
+{
+  "name": "neondb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tim McMackin <timothymcmackin@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "pg": "^8.11.1"
+  }
+}
